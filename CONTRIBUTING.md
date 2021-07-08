@@ -4,7 +4,7 @@
 
 ## Public Participation Invited
 
-[Open Project name] is an OASIS Open Project and welcomes participation by anyone, whether affiliated with OASIS or not. Substantive contributions and feedback are invited from all parties, following the common conventions for participation in GitHub public repository projects.
+RECITE is an OASIS Open Project and welcomes participation by anyone, whether affiliated with OASIS or not. Substantive contributions and feedback are invited from all parties, following the common conventions for participation in GitHub public repository projects.
 
 Participation is expected to be consistent with our [Code of Conduct](./CODE-OF-CONDUCT.md), the licenses applicable for each repository, and the acceptance of our Contributor License Agreement, generally at the time of first contribution. 
 
@@ -18,7 +18,7 @@ One of the best ways to communicate with the rest of the project contributors is
 
 ### Discussions and announcements
 
-Longer discussions can be taken up on the GitHub Discussions list or via the [mailing list](url to general mailing list). 
+Longer discussions can be taken up on the GitHub Discussions list or via the [mailing list](recite-oasis@lists.oasis-open-projects.org). 
 
 Discussions are a relatively new feature in GitHub that function like a chat service. You can find the Discussions link next to the link for Pull Requests. 
 
