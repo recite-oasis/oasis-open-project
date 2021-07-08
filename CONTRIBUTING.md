@@ -18,7 +18,7 @@ One of the best ways to communicate with the rest of the project contributors is
 
 ### Discussions and announcements
 
-Longer discussions can be taken up on the GitHub Discussions list or via the [mailing list](recite-oasis@lists.oasis-open-projects.org). 
+Longer discussions can be taken up on the GitHub Discussions list or via the [mailing list](mailto:recite-oasis@lists.oasis-open-projects.org). 
 
 Discussions are a relatively new feature in GitHub that function like a chat service. You can find the Discussions link next to the link for Pull Requests. 
 
