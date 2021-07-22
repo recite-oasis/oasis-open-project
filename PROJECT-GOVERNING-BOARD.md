@@ -6,6 +6,6 @@ The Project Governing Board sets overall strategic direction of the RECITE proje
 
 PGB members include representatives of [RECITE sponsor organizations](https://github.com/recite-oasis/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee: 
   
-- [name], [affiliation-linked-to-website], [github name?]
+- [coming soon]
 
 If you are interested in being part of the RECITE PGB, contact communications@oasis-open.org.
