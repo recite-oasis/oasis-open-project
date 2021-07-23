@@ -26,9 +26,9 @@ The general mailing list requires that you subscribe before you can send.
 
 General announcements are posted to the general mailing list and may be posted to other communications channels as well. 
 
-### Chat [optional]
+<!-- ### Chat [optional]
 
-The [project name] community uses Slack for ad hoc discussion. If you wish to join the channel, use [this invite](url to the join link).
+The [project name] community uses Slack for ad hoc discussion. If you wish to join the channel, use [this invite](url to the join link). /-->
 
 ### About the CLA Bot
 
