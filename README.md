@@ -16,9 +16,9 @@ In addition to this GitHub organization, this project also makes use of other as
 
 <!--- The [Open Project name] website is at [url to website]. The website contains news, announcements, and other information of interest about the project. -->
 
-- [General purpose mailing list](recite-oasis@lists.oasis-open-projects.org). To subscribe, send an empty email message to [](recite-oasis+subscribe@lists.oasis-open-projects.org). Anyone interested is welcome to subscribe and send email to the list. The list maintains an [archive](https://lists.oasis-open-projects.org/g/recite-oasis/topics).
+- **General purpose mailing list**. To subscribe, send an empty email message to [recite-oasis@lists.oasis-open-projects.org](recite-oasis+subscribe@lists.oasis-open-projects.org). Anyone interested is welcome to subscribe and send email to the list. The list maintains an [archive](https://lists.oasis-open-projects.org/g/recite-oasis/topics).
 
-- [Project Governing Board mailing list](https://lists.oasis-open-projects.org/g/recite-oasis-pgb). This is the discussion list for use by the members of the PGB. To subscribe, send an empty email message to [](recite-oasis-pgb+subscribe@lists.oasis-open-projects.org). Anyone interested is welcome to subscribe read-only. The list maintains an [archive](https://lists.oasis-open-projects.org/g/recite-oasis-pgb/topics).
+- **Project Governing Board mailing list**. This is the discussion list for use by the members of the PGB. To subscribe, send an empty email message to [https://lists.oasis-open-projects.org/g/recite-oasis-pgb](recite-oasis-pgb+subscribe@lists.oasis-open-projects.org). Anyone interested is welcome to subscribe read-only. The list maintains an [archive](https://lists.oasis-open-projects.org/g/recite-oasis-pgb/topics).
 
 <!-- - [Technical Steering Committee mailing list](url for list archive). This is the discussion list for use by the members of the TSC. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](url to archive).
 
