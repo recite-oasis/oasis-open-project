@@ -1,7 +1,5 @@
 <img src="artwork/OASIS-Primary-Logo-Full-Colour.png" width="200">
 
-_this is derived from the Ethereum governance file & open to editing to make more general or high level_
-
 # Governance
 
 ## Overview 
@@ -16,7 +14,7 @@ The Project Governing Board (PGB) works by lazy consensus as much as possible, h
 
 All members of the community must abide by all relevant OASIS policies including the [OASIS Open Projects Code of Conduct](./CODE-OF-CONDUCT.md). Failure to adhere to the Code of Conduct can have consequences including being held no longer eligible to participate in the work.
 
-* *Contributors*: People who have contributed to a project repository are contributors. Anyone can be a contributor, so long as they sign the appropriate Contributor License Agreements [add appropriate link] and conform to the Open Project policies. 
+* *Contributors*: People who have contributed to a project repository are contributors. Anyone can be a contributor, so long as they sign [the appropriate Contributor License Agreements](https://cla-assistant.io/recite-oasis/oasis-open-project) and conform to the Open Project policies. 
 
 * *Technical Steering Committee (TSC)*: Contributors can be invited by the PGB to join the TSC. A TSC generally covers the work on a single project within the Open Project. The TSC has day-to-day oversight of the technical work on the project and works with project maintainers to make sure project's goals are met. The TSC also advises the PGB on the technical agenda such as when works are ready for approval and release. The PGB must publish process documentation outlining the requirements for joining and voting in the project’s TSC.
 
@@ -140,7 +138,7 @@ Each TSC specification will only be considered complete when:
 
 Contributors to any TSC project must abide by the [OASIS Open Projects IPR Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/clas-and-special-covenant.md) and to the applicable open source license listed in the LICENSE.md file. 
 
-All contributors are required to make these rights available by signing a [Contributor License Agreement (CLA)](<bot url>) and patent non-assertion covenant. If you have questions about these policies, please contact the [OASIS Project Administrator](project-admin@oasis-open.org). 
+All contributors are required to make these rights available by signing a [Contributor License Agreement (CLA)](https://cla-assistant.io/recite-oasis/oasis-open-project) and patent non-assertion covenant. If you have questions about these policies, please contact the [OASIS Project Administrator](project-admin@oasis-open.org). 
 
 All participants must also abide by the terms of the [OASIS Open Projects Code of Conduct](https://github.com/oasis-open-projects/documentation/blob/master/CODE_OF_CONDUCT.md).
 
