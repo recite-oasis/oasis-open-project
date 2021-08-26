@@ -1,4 +1,4 @@
-<img src="artwork/OASIS-Primary-Logo-Full-Colour.png" width="200">
+<img src="artwork/RECITE-5.png" width="300">
 
 # RECITE Charter
 
