@@ -1,3 +1,5 @@
+<img src="artwork/RECITE-5.png" width="300">
+
 # Getting Started as an Open Project Sponsor
  
 All organizations are welcome to support RECITE OASIS Open Project. If you want to become a sponsor, or if you haven’t sent in your Sponsor Agreement yet, [contact OASIS for help on that](mailto:communications@oasis-open.org). 
