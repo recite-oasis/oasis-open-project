@@ -1,6 +1,10 @@
-# Sponsors of RECITE OASIS
+# Sponsors of RECITE 
 
-OASIS Open and REasoning for Conversation and Information Technology Exchange (RECITE) thank the following organizations who generously support the work, funding the development of the interoperability standards and open source tools that their organizations and customers depend on. Starred organizations have taken the additional step of signing the enterprise contributor license agreement and (optionally) seating a representative on the Project Governing Board. 
+RECITE is possible thanks to the industry leading organizations who generously support our work. 
 
 * [Accenture](https://www.accenture.com/) &bigstar; 
 * [PolyAI](https://www.polyai.com/) &bigstar; 
+
+If your organization is interested in joining RECITE, with the option to hold a seat on the RECITE Project Governing Board, contact join@oasis-open.org.
+
+*Starred organizations have signed the Entity Contributor License Agreement.* 
