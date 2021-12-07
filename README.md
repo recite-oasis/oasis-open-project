@@ -14,7 +14,7 @@ General questions about OASIS Open Projects may be directed to OASIS staff at pr
 
 In addition to this GitHub organization, this project also makes use of other assets. 
 
-You can find the RECITE website is at [http://recite-oasis.org/](http://recite-oasis.org/). The website contains news, announcements, and other information of interest about the project. 
+You can find the RECITE website at [http://recite-oasis.org/](http://recite-oasis.org/). The website contains news, announcements, and other information of interest about the project. 
 
 - **General purpose mailing list**. To subscribe, send an empty email message to [recite-oasis@lists.oasis-open-projects.org](recite-oasis+subscribe@lists.oasis-open-projects.org). Anyone interested is welcome to subscribe and send email to the list. The list maintains an [archive](https://lists.oasis-open-projects.org/g/recite-oasis/topics).
 
