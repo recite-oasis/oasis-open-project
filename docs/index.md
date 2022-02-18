@@ -1,4 +1,4 @@
-<img src="../artwork/RECITE-5.png" width="300">
+<img src="artwork/RECITE-5.png" width="300">
 
 <h1>REasoning for Conversation and Information Technology Exchange (RECITE) Project Governing Board (PGB)</h1>
 
