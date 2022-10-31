@@ -4,4 +4,3 @@ OASIS Open and REasoning for Conversation and Information Technology Exchange (R
 
 * [Accenture](https://www.accenture.com/) &bigstar; 
 * [BIBA - Bremen lnstitut für Produktion und Logistik GmbH](https://www.biba.uni-bremen.de/) &bigstar; 
-* [PolyAI](https://www.polyai.com/) &bigstar; 
