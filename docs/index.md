@@ -6,7 +6,7 @@
 
 <p>PGB members include representatives of <a href="https://github.com/recite-oasis/oasis-open-project/blob/main/SPONSORS.md">RECITE sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee:</p>
 
-<p><i>PGB Chair</i>: Hendrik Purwins</p>
+<p><i>PGB Chair</i>: The project is currently without a chair.</p>
 
 <p>PGB members:</p>
 
