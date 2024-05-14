@@ -1,5 +1,7 @@
 <img src="artwork/RECITE-5.png" width="300">
 
+The RECITE Open Project at OASIS was active from 2021 to 2023. The information provided here is for legacy purposes only. Although the RECITE project is not active at this time, conversational AI continues to be of interest to the OASIS community. To explore opportunities, please contact OASIS.
+
 # RECITE OASIS Open Project
 
 REasoning for Conversation and Information Technology Exchange (RECITE) is an [OASIS Open Project](https://oasis-open-projects.org/) dedicated to developing a standard for dialog modeling in conversational agents.
